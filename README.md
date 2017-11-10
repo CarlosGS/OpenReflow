@@ -5,6 +5,8 @@ Simple reflow oven controller that is configurable from a phone (_we are working
 
 ![](Pictures/OpenReflow_0.1_curve.png)
 
+![](Pictures/OpenReflow_PCB.png)
+
 ![](Pictures/OpenReflow_schematic.png)
 
 # More information can be found in PCBway
